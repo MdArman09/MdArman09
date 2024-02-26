@@ -1,6 +1,6 @@
 ### Hi there👋, I'm Arman
 
-A passionate Computer Science student in my 2nd year of B.Tech 🎓. Exploring the world of coding and technology!
+A passionate Computer Science student in my 2nd year of B.Tech(CSE) 🎓. Exploring the world of coding and technology!
 
 ## 🚀 Currently Learning
 
