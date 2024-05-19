@@ -14,7 +14,7 @@ A passionate Computer Science student in my 2nd year of B.Tech(CSE) 🎓. Explor
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [LinkedIn Profile URL](https://www.linkedin.com/in/md-arman-alam-ba5669284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+- LinkedIn: [[LinkedIn Profile URL](https://www.linkedin.com/in/md-arman-alam-ba5669284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
 - Email: [md4577963@gmail.com]
 
 Feel free to connect and share your coding journey with me. Let's learn and grow together! 🚀
