@@ -9,7 +9,7 @@ A passionate Computer Science student in my 2nd year of B.Tech(CSE) 🎓. Explor
 ## 💻 Tech Interests
 
 🔧 I enjoy working with:
-- Languages: [MySQL,C,JAVA,Python]
+- Languages: [MySQL,C,JAVA,Python,Web Development]
 - Tools: Git, VS Code
 
 ## 🌐 Connect with Me
