@@ -1,13 +1,20 @@
 ![logo](https://github.com/MdArman09/Md-Arman-Alam/blob/main/.github/workflows/profile%20(1).gif)
 
-![Hi 👏, I'm Md Arman Alam](https://github.com/MdArman09/Md-Arman-Alam/raw/main/Hi 👏, I'm Md Arman Alam.gif)
+![Hi 👏, I'm Md Arman Alam](https://github.com/MdArman09/Md-Arman-Alam/raw/main/Md.gif)
+![Hi, I'm Md Arman Alam]()
 <h3 align="center">An passionate software developer from India</h3>
 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarman09&label=Profile%20views&color=0e75b6&style=flat" alt="mdarman09" /> </p>
 
  
-- 🌱 I’m currently learning **Advanced Java**, **Spring**, and **modern front-end frameworks** like **Angular** to expand my full-stack capabilities.
+ - 🔭 I’m currently working on ****innovative software solutions** that streamline operations, enhance user experience, and solve real-world problems. My main focus is on **Full-stack and Mobile-app development.****
+
+- 🌱 I’m currently learning ****Advanced Java**, **Spring**, and **modern front-end frameworks** like **Angular** to expand my full-stack capabilities.**
+
+- 👯 I’m looking to collaborate on ****open-source projects** that push the boundaries of software development. I’m particularly excited about opportunities in **full-stack development**, **Android apps**, and **cloud integrations.****
+
+- 🤝 I’m looking for help with ****community-driven projects** that aim to make tech more accessible and inclusive. Let’s build tools that matter and make an impact!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MdArman09](https://github.com/MdArman09)
 
