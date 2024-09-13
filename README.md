@@ -1,7 +1,7 @@
 ![logo](https://github.com/MdArman09/Md-Arman-Alam/blob/main/github%20profile%20(2).gif)
 
 <h1 align="center">Hi 👋, I'm Md Arman Alam</h1>
-<h3 align="center">An enthusiastic software developer from India, turning ideas into impactful solutions with code</h3>
+<h3 align="center">An passionate software developer from India</h3>
 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarman09&label=Profile%20views&color=0e75b6&style=flat" alt="mdarman09" /> </p>
