@@ -1,4 +1,4 @@
-![logo](https://github.com/MdArman09/Md-Arman-Alam/blob/main/github%20profile.gif)
+![logo](https://github.com/MdArman09/Md-Arman-Alam/blob/main/github%20profile%20(2).gif)
 
 <h1 align="center">Hi 👋, I'm Md Arman Alam</h1>
 <h3 align="center">An enthusiastic software developer from India, turning ideas into impactful solutions with code</h3>
