@@ -1,7 +1,6 @@
 ![logo](https://github.com/MdArman09/Md-Arman-Alam/blob/main/.github/workflows/profile%20(1).gif)
 
-![Hi 👏, I'm Md Arman Alam](https://github.com/MdArman09/Md-Arman-Alam/raw/main/Md.gif)
-![Hi, I'm Md Arman Alam]()
+<h1 align="center">Hi 👋, I'm Md Arman Alam</h1>
 <h3 align="center">An passionate software developer from India</h3>
 
 </br>
