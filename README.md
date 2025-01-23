@@ -1,9 +1,5 @@
 ![logo](https://github.com/MdArman09/Md-Arman-Alam/blob/main/.github/workflows/profile%20(1).gif)
 
-
- <meta name="google-site-verification" content="pAh3u3EOfE3UnyBnJhlUb_OvNgMPxYjxAE-uifvMmdU" />
-
-
 <h1 align="center">Hi 👋, I'm Md Arman Alam</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
