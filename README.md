@@ -42,6 +42,7 @@
 <div align="center" style="margin-bottom: 20px;">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdarman09&" alt="GitHub Streak Stats"/>
 <br>
+<br>
   <img src="https://github-readme-stats.vercel.app/api?username=mdarman09&show_icons=true&locale=en" alt="GitHub Stats"/>
 </div>
 <br>
