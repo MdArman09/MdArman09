@@ -1,6 +1,7 @@
 ![logo](https://github.com/MdArman09/Md-Arman-Alam/blob/main/.github/workflows/profile%20(1).gif)
-
-<h2 align="center">Hi 👋, I'm Md Arman Alam</h2>  
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=2FA4C0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Md+Arman+Alam" alt="Typing SVG" /></a>
+</h1>
 <h4 align="center">Passionate Software Developer from India</h4>
 
 
